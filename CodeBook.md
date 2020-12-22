@@ -14,7 +14,7 @@ This codebook document describes about the following
 
 ## Experiment Activities 
 
-Following the activiies which were don in the experiment with 30 subjects. 
+Following the activities which were don in the experiment with 30 subjects. 
 the file y_train and y_test contains the following codes against the activities
 
 1 WALKING
