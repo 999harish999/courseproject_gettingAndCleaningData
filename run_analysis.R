@@ -84,4 +84,4 @@ tidyData <- dcast(meltedData, subjects + activity ~ variable, mean)
 
 #write the datafrom to file tidyData.txt
 
-write.table(tidyData,"./data01/tidyData.txt")
+write.table(tidyData,"./data01/tidyData.txt",row.names = FALSE)
